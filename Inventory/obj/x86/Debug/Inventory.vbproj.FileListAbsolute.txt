@@ -1,0 +1,39 @@
+C:\Users\Ace\AppData\Local\Temporary Projects\Inventory\bin\Debug\Inventory.exe
+C:\Users\Ace\AppData\Local\Temporary Projects\Inventory\bin\Debug\Inventory.pdb
+C:\Users\Ace\AppData\Local\Temporary Projects\Inventory\bin\Debug\Inventory.xml
+C:\Users\Ace\AppData\Local\Temporary Projects\Inventory\obj\x86\Debug\Inventory.W_FormSlip.resources
+C:\Users\Ace\AppData\Local\Temporary Projects\Inventory\obj\x86\Debug\Inventory.Resources.resources
+C:\Users\Ace\AppData\Local\Temporary Projects\Inventory\obj\x86\Debug\Inventory.vbproj.GenerateResource.Cache
+C:\Users\Ace\AppData\Local\Temporary Projects\Inventory\obj\x86\Debug\Inventory.exe
+C:\Users\Ace\AppData\Local\Temporary Projects\Inventory\obj\x86\Debug\Inventory.xml
+C:\Users\Ace\AppData\Local\Temporary Projects\Inventory\obj\x86\Debug\Inventory.pdb
+C:\Users\Ace\AppData\Local\Temporary Projects\Inventory\obj\x86\Debug\Inventory.vbproj.ResolveComReference.cache
+C:\Users\Ace\Documents\Visual Studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.vbproj.ResolveComReference.cache
+C:\Users\Ace\Documents\Visual Studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.exe
+C:\Users\Ace\Documents\Visual Studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.xml
+C:\Users\Ace\Documents\Visual Studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.pdb
+C:\Users\Ace\Documents\Visual Studio 2010\Projects\Inventory\Inventory\bin\Debug\Inventory.exe
+C:\Users\Ace\Documents\Visual Studio 2010\Projects\Inventory\Inventory\bin\Debug\Inventory.pdb
+C:\Users\Ace\Documents\Visual Studio 2010\Projects\Inventory\Inventory\bin\Debug\Inventory.xml
+C:\Users\Ace\Documents\Visual Studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.W_FormSlip.resources
+C:\Users\Ace\Documents\Visual Studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.Resources.resources
+C:\Users\Ace\Documents\Visual Studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.vbproj.GenerateResource.Cache
+C:\Users\Ace\Desktop\Inventory\Inventory\obj\x86\Debug\Inventory.vbproj.ResolveComReference.cache
+C:\Users\Ace\Desktop\Inventory\Inventory\obj\x86\Debug\Inventory.exe
+C:\Users\Ace\Desktop\Inventory\Inventory\obj\x86\Debug\Inventory.xml
+C:\Users\Ace\Desktop\Inventory\Inventory\obj\x86\Debug\Inventory.pdb
+C:\Users\Ace\Desktop\Inventory\Inventory\bin\Debug\Inventory.exe
+C:\Users\Ace\Desktop\Inventory\Inventory\bin\Debug\Inventory.pdb
+C:\Users\Ace\Desktop\Inventory\Inventory\bin\Debug\Inventory.xml
+C:\Users\Ace\Desktop\Inventory\Inventory\obj\x86\Debug\Inventory.W_FormSlip.resources
+C:\Users\Ace\Desktop\Inventory\Inventory\obj\x86\Debug\Inventory.Resources.resources
+C:\Users\Ace\Desktop\Inventory\Inventory\obj\x86\Debug\Inventory.Results.resources
+C:\Users\Ace\Desktop\Inventory\Inventory\obj\x86\Debug\Inventory.vbproj.GenerateResource.Cache
+C:\Users\Ace\Desktop\Inventory\Inventory\obj\x86\Debug\Inventory.AllResults.resources
+C:\Users\Ace\Desktop\Inventory\Inventory\obj\x86\Debug\Inventory.MainMenu.resources
+C:\Users\Ace\Desktop\Inventory\Inventory\obj\x86\Debug\Inventory.Print.resources
+C:\Users\Ace\Desktop\Inventory\Inventory\obj\x86\Debug\Inventory.PrintDate2.resources
+C:\Users\Ace\Documents\GitHub\Inventory\Inventory\obj\x86\Debug\Inventory.vbproj.ResolveComReference.cache
+C:\Users\Ace\Documents\GitHub\Inventory\Inventory\obj\x86\Debug\Inventory.exe
+C:\Users\Ace\Documents\GitHub\Inventory\Inventory\obj\x86\Debug\Inventory.xml
+C:\Users\Ace\Documents\GitHub\Inventory\Inventory\obj\x86\Debug\Inventory.pdb
